@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.divA {
+  height: inherit !important;
+  width: inherit !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
